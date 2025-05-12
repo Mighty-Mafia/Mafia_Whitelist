@@ -1,4 +1,4 @@
 {
-    "1741283905": true , - MafiaMain
-    "2682864672": true - ALTACOUNTFORJB
+    ["1741283905"] = true, -- MafiaMain
+    ["2682864672"] = true  -- ALTACOUNTFORJB
 }
